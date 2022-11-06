@@ -17,4 +17,4 @@
 </div>
 <br/>
 
-Atualmente, estagiando no time de desenvolvimento da "Consys - Consultoria & Sistemas" e um aspirante a Desenvolvedor Front-End.
+Atualmente, atuando como desenvolvedor full-stack Jr. na Gruppy Tecnologia.
