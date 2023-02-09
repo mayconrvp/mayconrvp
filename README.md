@@ -1,4 +1,6 @@
-## Olá! Eu sou o Maycon Rodrigues! ✌️
+## Olá! Eu sou Maycon Rodrigues! 
+
+Hi! I'm Maycon Rodrigues and welcome to my Github.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-rvp/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maycon.rvp/)
@@ -7,7 +9,7 @@
 ![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconrvp&show_icons=true&theme=onedark&count_private=true)
 
 
-## Tecnologias utilizadas no dia a dia
+## Technologies
 <div style="text-align:center;"><br/>
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
 <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -17,4 +19,4 @@
 </div>
 <br/>
 
-Atualmente, atuando como desenvolvedor full-stack Jr. na Gruppy Tecnologia.
+Currently, I work as a Full-Stack Developer at Gruppy Tecnologia.
