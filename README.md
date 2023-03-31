@@ -18,5 +18,3 @@ Hi! I'm Maycon Rodrigues and welcome to my Github.
 <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 </div>
 <br/>
-
-Currently, I work as a Full-Stack Developer at Gruppy Tecnologia.
